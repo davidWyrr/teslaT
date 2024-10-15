@@ -26,8 +26,8 @@ defineProps<{
 
         <div class="Lscore">
             <p>{{ position }}</p>
-            <!-- <img src="../../assets/icons/up.svg" alt="" v-if="details.isSucessful" />
-            <img src="../../assets/icons/down.svg" alt="" v-else /> -->
+            <img src="../../assets/icons/Cup.svg" alt="" v-if="details.isSucessful" />
+            <img src="../../assets/icons/Cdown.svg" alt="" v-else />
         </div>
 
     </div>
