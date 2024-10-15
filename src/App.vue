@@ -91,11 +91,11 @@ const onclickHandler = () => {
 }
 
 .sideBarparent {
-  overflow-y: auto;
+  overflow-y: auto !important;
   overflow-x: hidden;
   background: #FFFFFF;
   box-shadow: 0px 5px 20px 0px #0000000D;
-
+  
   padding-right: 20px;
   border: 2px solid red;
   border-top-right-radius: 20px;
