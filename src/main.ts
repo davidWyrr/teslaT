@@ -7,14 +7,14 @@ import * as directives from 'vuetify/directives'
 import { createApp } from 'vue'
 import VueApexCharts from "vue3-apexcharts";
 import App from './App.vue'
-import router from './router'
+import router from './router/index.js'
+
 
 const vuetify = createVuetify({
     components,
     directives,
   })
 const app = createApp(App)
-
 app.use(router)
 app.use(VueApexCharts);
 app.use(vuetify)
