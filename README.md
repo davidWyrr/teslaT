@@ -10,13 +10,13 @@ The application is structured with seperate components for dropdown to better al
 
 **Setup Instructions:**
 
-1. **Prerequisites:** Node.js v16 or later
+ **Prerequisites:** Node.js v16 or later
 
-2. **Installation:**
-3. git clone https://github.com/davidWyrr/teslaT.git
-4. cd tesla2
-5. npm install
-6. npm run dev# tesla2
+ **Installation:**
+1. git clone https://github.com/davidWyrr/teslaT.git
+2. cd tesla2
+3. npm install
+4. npm run dev# tesla2
 
 **Areas for improvement:**
 
