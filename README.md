@@ -6,7 +6,7 @@ This project is a simple application based on a Figma design. from the infomatio
 
 I aimed to create a lightweight and user-friendly app that aligns well with the figma design and also has a well stuctured reusable component and clean UI. I explored using Vuetify for component styling and animation
 **Execution:**
-The application is structured with seperate components for dropdown to better align with the design and also display my expertise with Vue.js . Data is managed using Vuex for state management. grapical representations of data are implemented using apexChart ( an open source javascript chart library licensed under MIT)
+The application is structured with seperate components for dropdown to better align with the design and also display my expertise with Vue.js . Data is managed using ref and reactive for state management since it is small project . grapical representations of data are implemented using apexChart ( an open source javascript chart library licensed under MIT)
 
 **Setup Instructions:**
 
