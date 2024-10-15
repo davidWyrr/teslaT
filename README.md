@@ -13,9 +13,14 @@ The application is structured with seperate components for dropdown to better al
 1. **Prerequisites:** Node.js v16 or later
 
 2. **Installation:**
-   git clone [invalid URL removed]
-   cd my-vue-app
+   git clone https://github.com/davidWyrr/teslaT.git
+   cd tesla2
    npm install
    npm run dev# tesla2
-# tesla2
-# teslaT
+
+
+   **Areas for improvement:**
+   1. modification of the people Module to better align with the company's Goal.
+   2. Add filtering and search options for the People Module.
+   1. Integrate with a backend API for persistence and user accounts.
+
