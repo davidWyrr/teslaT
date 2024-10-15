@@ -1,0 +1,59 @@
+@import './base.css';
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.apexcharts-menu-icon, .apexcharts-reset-icon, .apexcharts-zoom-icon {
+  display: none !important;
+}
+.v-progress-linear__determinate{
+  border-radius: 20px !important;
+}
+.apexcharts-legend, .apexcharts-xaxis-tick,.apexcharts-toolbar{
+  display: none !important;
+}
+.vue-apexcharts{
+  min-height: 100% !important;
+  min-width: 100% !important;
+}
+
+.apexcharts-xaxis-label{
+  border: 2px solid red !important;
+}
+
+/* #app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+  padding: 3px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    place-items: center;
+  }
+
+  #app {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0 2rem;
+  }
+} */
