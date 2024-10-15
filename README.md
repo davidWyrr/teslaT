@@ -23,3 +23,4 @@ The application is structured with seperate components for dropdown to better al
 1.  modification of the people Module to better align with the company's Goal.
 2.  Add filtering and search options for the People Module.
 3.  Integrate with a backend API for persistence and user accounts.
+4. some of the images exported from the figma  are more than 5mb (will affect performance in the long run )
